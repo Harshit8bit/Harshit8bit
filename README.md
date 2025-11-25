@@ -30,7 +30,9 @@ I specialize in building high-performance, interactive web applications using th
 
 </div>
 
-
+<h3 align="center">
+<a href="https://harshit-agarwal.onrender.com/" target="_blank">🌐 Visit my Portfolio</a>
+</h3>
 
 <!-- About Me Section -->
 
@@ -179,10 +181,10 @@ I specialize in building high-performance, interactive web applications using th
 </p>
 
 
-<picture>
+<!-- <picture> -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+  <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg"> -->
+  <!-- <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg"> -->
+<!-- </picture> -->
 
 ###
