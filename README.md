@@ -1,10 +1,10 @@
 <!-- Header Section -->
 
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 
-<h1 align="center"><font face="Arial">Hi 👋, I'm Harshit Agarwal</font></h1>
 
-<h3 align="center"><font face="Arial">Full-Stack Developer specializing in 3D Web Experiences 🇮🇳</font></h3>
+<h3 align="center"><font face="Arial">I'm Harshit Agarwal a Full-Stack Developer specializing in 3D Web Experiences 🇮🇳</font></h3>
 
 
 
